@@ -1,0 +1,13 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(±…æ8Î«ûÈâ0
+I
+java:S1602",Remove useless curly braces around statement(¥—ığ8ÒÃÉÈâ0
+e
+java:S1612"HReplace this lambda with method reference 'accountRepository::populate'.(¥—ığ8ÓÃÉÈâ0
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ì¯¾Çşÿÿÿÿ
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(òğ¶”8û·üÈâ0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8¯£€Éâ0
+Z
+java:S1128"8Remove this unused import 'org.brody.enums.AccountType'.(ïü£îøÿÿÿÿ8Ş–Éâ0
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8ü·üÈâ0
